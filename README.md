@@ -13,7 +13,7 @@ This project demonstrates a novel IoT control system designed for speech-impaire
 
 This solution enhances accessibility and independence for individuals with speech or motor impairments by combining handwriting recognition, natural language understanding, and IoT control.
 
-🔧 PlatformIO Configuration
+#🔧 PlatformIO Configuration
 The project uses PlatformIO for development with the following environment:
 
 [env:esp32doit-devkit-v1]
