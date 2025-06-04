@@ -2,7 +2,8 @@
 
 This project demonstrates a novel IoT control system designed for speech-impaired users. It leverages a Large Language Model (LLM) to interpret handwritten instructions and wirelessly control electronic appliances via an ESP32 board.
 
-📌 #Project Overview#
+📌 Project Overview
+
 *Input: Handwritten commands are captured and interpreted using an AI-powered system (e.g., Gemini Flash 2.0).
 
 *Processing: The commands are processed using an LLM to extract actionable instructions.
@@ -13,7 +14,8 @@ This project demonstrates a novel IoT control system designed for speech-impaire
 
 This solution enhances accessibility and independence for individuals with speech or motor impairments by combining handwriting recognition, natural language understanding, and IoT control.
 
-🔧 #PlatformIO Configuration
+🔧 PlatformIO Configuration
+
 The project uses PlatformIO for development with the following environment:
 
 [env:esp32doit-devkit-v1]
